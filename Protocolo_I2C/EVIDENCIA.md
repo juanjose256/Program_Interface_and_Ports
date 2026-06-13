@@ -57,7 +57,7 @@ Tanto la pantalla OLED (dirección `0x3C`) como el sensor BMP280 (dirección `0x
 
 
 
-## ⚙️ Lógica del programa
+## Lógica del programa
 
 ### Umbrales de temperatura (histéresis)
 
@@ -90,17 +90,6 @@ lib_deps =
     adafruit/Adafruit GFX Library
     adafruit/Adafruit SSD1306
     adafruit/Adafruit BMP280 Library
-```
-
----
-
-## 🖥️ Salida Serial (115200 baud)
-
-```
-Todo OK
-Temp: 22.60 C | Pres: 1006.1 hPa | LED: OFF
-Temp: 24.13 C | Pres: 1006.0 hPa | LED: ON
-Temp: 22.75 C | Pres: 1006.2 hPa | LED: OFF
 ```
 
 ---
